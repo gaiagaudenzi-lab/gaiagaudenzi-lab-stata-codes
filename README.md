@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A guide to use Stata
 
 You can use the [editor on GitHub](https://github.com/gaiagaudenzi-lab/gaiagaudenzi-lab-stata-codes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
